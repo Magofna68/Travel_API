@@ -10,7 +10,7 @@
       "request": "launch",
       "preLaunchTask": "build",
       // If you have changed target frameworks, make sure to update the program path.
-      "program": "${workspaceFolder}/Travel/bin/Debug/net5.0/Travel_API.dll",
+      "program": "${workspaceFolder}/Travel/bin/Debug/net5.0/Travel.dll",
       "args": [],
       "cwd": "${workspaceFolder}/Travel",
       "stopAtEntry": false,
