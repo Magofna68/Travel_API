@@ -17,10 +17,10 @@ namespace Travel
     public int Rating { get; set; }
     [Required]
     public bool Recommended { get; set; }
-    [Required]
-    public DateTime ReservationDate { get; set; }
-    [Required]
-    public DateTime ReviewDate { get; set; } = DateTime.Now;
+    // [Required]
+    // public DateTime ReservationDate { get; set; }
+    // [Required]
+    // public DateTime ReviewDate { get; set; } = DateTime.Now;
 
   }
 }
