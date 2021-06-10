@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-  <u><big>||  <b>MessageBoard API</b>  ||</big></u>
+  <big>||  &nbsp;&nbsp;&nbsp;<b>Travel API</b>&nbsp;&nbsp;&nbsp;  ||</big>
 </p>
 <p align="center">
     <!-- Project Avatar/Logo -->
@@ -20,16 +20,16 @@
     </p>
     <!-- Project Shields -->
     <p align="center">
-        <a href="https://github.com/Magofna68/MessageBoard.Solution/graphs/contributors">
+        <a href="https://github.com/Magofna68/Travel_API/graphs/contributors">
             <img src="https://img.shields.io/github/contributors/Magofna68/MessageBoard.Solution.svg?style=plastic">
         </a>
         ¨
-        <a href="https://github.com/Magofna68/MessageBoard.Solution/stargazers">
-            <img src="https://img.shields.io/github/license/Magofna68/PierresTreats.Solution?style=plastic">
+        <a href="https://github.com/Magofna68/Travel_API/stargazers">
+            <img src="https://img.shields.io/github/license/Magofna68/Travel_API?style=plastic">
         </a>
         ¨
-        <a href="https://github.com/Magofna68/MessageBoard.Solution/issues">
-            <img src="https://img.shields.io/github/last-commit/Magofna68/MessageBoard.Solution?style=plastic">
+        <a href="https://github.com/Magofna68/Travel_API/issues">
+            <img src="https://img.shields.io/github/last-commit/Magofna68/Travel_API?style=plastic">
         </a>
         ¨
         <a href="https://linkedin.com/in/Magofna68">
@@ -70,9 +70,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis auctor euism
 
 ### 1) Install .NET Core
 * On macOS:
-  * [Click here](https://dotnet.microsoft.com/download/thank-you/dotnet-sdk-2.2.106-macos-x64-installer) to download the .NET Core SDK from Microsoft Corp for macOS.
+  * [Click here](https://dotnet.microsoft.com/download/thank-you/dotnet-sdk-2.2.106-macos-x64-installer)
 * On Windows 10:
-  * [Click here](https://dotnet.microsoft.com/download/thank-you/dotnet-sdk-2.2.203-windows-x64-installer) to download the 64-bit .NET Core SDK from Microsoft Corp for Windows.
+  * [Click here](https://dotnet.microsoft.com/download/thank-you/dotnet-sdk-2.2.203-windows-x64-installer)
 
 ### 2) Install dotnet script
  * Enter the command ``dotnet tool install -g dotnet-script`` in Terminal/PowerShell.
@@ -126,7 +126,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mollis auctor euism
 ------------------------------
 
 ## 🛰️ API Documentation
-Explore the API endpoints in Postman or a browser. You will not be able to utilize authentication in a browser.
+Explore the API endpoints in Postman or a browser.
 
 ### Using Swagger Documentation 
 #### i) To launch the project API with Swashbuckle, run the following command in the Terminal:
@@ -172,7 +172,8 @@ https://localhost:5000/swagger/index.html
 
 | Author | GitHub | Email |
 |--------|:------:|:-----:|
-| [Brandon Magofna](https://www.linkedin.com/in/magofna/) | [Magofna68](https://github.com/LunsfordSpace) |  [Magofna68@gmail.com](mailto:Magofna68@gmail.com) |
+| [Brandon Magofna](https://www.linkedin.com/in/magofna/) | [Magofna68](https://github.com/magofna) |  [Magofna68@gmail.com](mailto:Magofna68@gmail.com) |
+| [Tiffany Greathead](https://www.linkedin.com/in/magofna/) | [Magofna68](https://github.com/LunsfordSpace) |  [Magofna68@gmail.com](mailto:Magofna68@gmail.com) |
 
 ------------------------------
 
