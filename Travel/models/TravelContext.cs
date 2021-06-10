@@ -1,4 +1,4 @@
-using Microsoft.EnitityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 
 namespace Travel.Models
 {
