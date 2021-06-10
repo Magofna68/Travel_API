@@ -5,6 +5,7 @@ namespace Travel
 {
   public class Review
   {
+    public int ReviewId { get; set; }
     [Required]
     public string Name { get; set; }
     [Required]
